@@ -1,3 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Centralized string resources for internationalization and XML safety.
+    All '&' characters are escaped as '&amp;' to prevent XML parse errors.
+-->
 <resources>
     <string name="app_name">CampusLife</string>
+    <!-- Button and banner labels -->
+    <string name="label_facilities">Facilities</string>
+    <string name="label_events">Events</string>
+    <string name="label_clubs">Clubs</string>
+    <string name="label_support">Support</string>
+    <!-- Page titles -->
+    <string name="title_facilities">Hamilton &amp; Tauranga Facilities</string>
+    <string name="title_events">School or Divisional Engagement Events</string>
+    <string name="title_clubs">Discover New Interests</string>
+    <string name="title_support">Student Support Services</string>
+    <!-- Full content (from Canvas + screenshot) -->
+    <string name="content_facilities">Hamilton Court: We have two indoor courts on campus, including 1 indoor court located at the University of Waikato Sports Centre and 1 indoor court at the University of Waikato Sports Centre. We also have 1 outdoor court located at the University of Waikato Sports Centre.\n\nOutdoor Courts: Currently in preparation outdoor courts at the University of Waikato Sports Centre.\n\nOutdoor Fields: We have three full-size rugby pitches, one full-size soccer pitch, and one full-size cricket pitch. We also have a 400m athletics track and a high jump area.\n\nOur courts and fields are available for students, staff and the public to use. We offer a variety of sports including badminton, basketball, volleyball and futsal.\n\nWe also offer a variety of classes including yoga, pilates, zumba and more.\n\nFor more information, please visit our website or contact us at sports@waikato.ac.nz\n\nTauranga Facilities\nTauranga: Youth Centre (29th Ave) 30 minute walk or a five minute drive from Tauranga central campus by Queen</string>
+
+    <string name="content_events">School or Divisional Engagement Events offers a valuable opportunity to enhance your academic journey and help you make the most of your time at university. We offer a variety of events including:\n\n• Waikato Medical Secondary School\'s Mocking Competition\n• Forensic Psychology, Forensic Psychology and Crime Scene Investigation\n• Engineering Information Evening (Tuesday, 14 July)\n• Engineering Information Evening (Thursday, 16 July)\n• Engineering Information Evening (Tuesday, 21 July)\n• Engineering Information Evening (Thursday, 23 July)\n• Engineering Information Evening (Tuesday, 28 July)\n• Engineering Information Evening (Thursday, 30 July)</string>
+
+    <string name="content_clubs">1. Animal Rights &amp; Climate Justice: We take action on a variety of issues including animal rights, climate justice, and more. We are the first student group in Aotearoa to achieve Fair Trade University status.\n\n2. The proposal for the Asian Law Student Association (ALSA) has been approved by the Waikato Student Union. ALSA is a student-led organisation that aims to promote legal education, legal research and legal practice among Asian students in New Zealand.\n\n3. The Waikato Student Radio Society is a student-led organisation that aims to provide a platform for students to share their music, ideas, and stories. The society broadcasts on 88.4 FM and online at waikatoradio.co.nz.</string>
+
+    <string name="content_support">On this page:\n• Academic Services\n• Health &amp; Wellbeing\n• Student Representation System\n• International Student Support\n• Disability Support Services\n• Financial Support\n• Student Life with Waikato\n\nThe Student Services team offers a wide range of support services to help you succeed in your studies and enjoy your time at university.</string>
 </resources>
