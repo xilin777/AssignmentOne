@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
 
         // Part E – Toast
         Toast.makeText(this, toastMessage, Toast.LENGTH_SHORT).show();
-
+        //Part G – Intent
         Intent intent = new Intent(this, DetailActivity.class);
         intent.putExtra("TOPIC_ID", topicId);
         startActivity(intent);
